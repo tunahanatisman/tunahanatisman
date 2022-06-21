@@ -3,7 +3,8 @@
 <p align='center'>
   <a href="https://instagram.com/tunahanatisman_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://twitter.com/tunahanatisman7"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.linkedin.com/in/tunahanatisman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/tunahanatisman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tunahanatisman7@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4.svg?&style=for-the-badge&logo=microsoft%20gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 </p><br>
