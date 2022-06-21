@@ -1,10 +1,10 @@
 <h1 align='center'>  Hi There, I'm Tunahan ATIŞMAN <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1> 
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='center'>
-  * ✉️  You can contact me at [tunahanatisman7@gmail.com](mailto:tunahanatisman7@gmail.com)
   <a href="https://instagram.com/tunahanatisman_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://twitter.com/tunahanatisman7"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/tunahanatisman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:tunahanatisman7@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4.svg?&style=for-the-badge&logo=googlet%20gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br>
 
 <a href="https://github.com/tunahanatisman"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahanatisman&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
